@@ -1,0 +1,70 @@
+.social-button {
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    padding: 25px;
+
+}
+
+.instagram-btn {
+    
+    background: #1c1c1c;
+    color: #fffafa;
+    border-radius: 30px;
+    border: none;
+    width: 125px;
+    height: 45px;
+    cursor: grab;
+    
+}
+  
+.instagram-btn:hover {
+
+    background: #FFFF00;
+    color: black;
+    transform: scale(1.05);
+
+}
+
+.github-btn {
+    
+    background: #1c1c1c;
+    color: #fffafa;
+    border-radius: 30px;
+    border: none;
+    width: 125px;
+    height: 45px;
+    cursor: grab;
+
+}
+  
+.github-btn:hover {
+
+    background: #FFFF00;
+    color: black;
+    transform: scale(1.05);
+
+  }
+
+.linkedin-btn {
+    
+    background: #1c1c1c;
+    color: #fffafa;
+    border-radius: 30px;
+    border: none;
+    width: 125px;
+    height: 45px;
+    cursor: grab;
+
+ }
+  
+.linkedin-btn:hover {
+
+    background: #FFFF00;
+    color: black;
+    transform: scale(1.05);
+
+}
